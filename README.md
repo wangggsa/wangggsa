@@ -63,7 +63,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/wangggsa/wangggsa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/wangggsa/wangggsa/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
