@@ -63,7 +63,7 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-icgp98ndm-ians-projects-c182a3bb.vercel.app/api/top-langs/?username=wangggsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-two-mu-43.vercel.app/api/top-langs/?username=wangggsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
