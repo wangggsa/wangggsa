@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I’m Wangsa 👋<br><br>💻 Computer Science Undergraduate Student<br>📍 Indonesia<br>🤖 Interested in Full-Stack Development, AI, Machine Learning, and Data Analytics<br><br>I enjoy building scalable web applications, experimenting with AI, and continuously learning new technologies.</p>
+<p data-importer="text" align="left">Hi, I’m Wangsa 👋<br><br>💻 Computer Science Undergraduate Student<br>📍 Indonesia<br>🤖 Interested in Full-Stack Development, AI, Machine Learning, and Data Science<br><br>I enjoy building scalable web applications, experimenting with AI, and continuously learning new technologies.</p>
 
 ###
 
